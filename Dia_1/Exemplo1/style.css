@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.Pai {
+    background-color: #23424a;
+    padding: 50px;
+    
+    /* width: 900px; */
+    margin: 0 auto;
+    width: 80%;
+}
+
+.Filho {
+    background-color: #38CFD9;
+    height: 250px;
+}

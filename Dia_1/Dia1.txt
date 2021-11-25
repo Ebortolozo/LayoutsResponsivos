@@ -1,0 +1,10 @@
+É recomendado não utilizar valores fixos para height e width, como:
+300px ou 100rem
+
+É recomendado usar porcentagens para ter uma resposividade melhor;
+
+Quando a div é "Pai" a porcentagem vai ser em relação ao body, já quando a div é "filha" a porcentagem é relativa ao "pai".
+
+Sites são naturalmente resposivos, quando definimos valores não estragamos a resposividade
+
+Desafio Tranquilo, Só ajustando o texto e adcionando padding para o texto nao "Vazar"
